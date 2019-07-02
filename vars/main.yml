@@ -10,14 +10,7 @@ homebrew_installed_packages:
   - zsh
   - tmux
   - mercurial
-  - phpmd
-  - php-code-sniffer
-  - php-cs-fixer
-  - phpunit
-  - php70
-  - php70-intl
-  - php70-imagick
-  - php70-mcrypt
+  - iterm2
   - tree
   - npm
   - yarn
